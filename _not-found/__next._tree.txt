@@ -1,2 +1,2 @@
-:HL["/KafkaVisualiser/_next/static/chunks/0oxwgrr~h12uc.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"i9rdT9rJ5JULBGs7aHbei"}
+:HL["/_next/static/chunks/0m2937nvw76zq.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"wAEAZDOzeLnLRrR-Pqpu6"}
