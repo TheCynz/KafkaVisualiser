@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[99674,["/KafkaVisualiser/_next/static/chunks/05333.1pxjryx.js"],"ViewportBoundary"]
+3:I[99674,["/KafkaVisualiser/_next/static/chunks/05333.1pxjryx.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kafka Visualiser"}],["$","meta","1",{"name":"description","content":"A static Kafka architecture simulator for learning broker, topic, ISR, producer, consumer group, KRaft and estate behaviour."}],["$","meta","2",{"name":"application-name","content":"Kafka Visualiser"}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"i9rdT9rJ5JULBGs7aHbei"}
